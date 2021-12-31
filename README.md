@@ -4,4 +4,8 @@ Perform classification on the CIFAR10 dataset. The dataset consists of color ima
 2. SGD 
 3. AdaDelta 
 4. RMSprop
+
+
+
+
 Also made a report of the findings
